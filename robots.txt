@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.stallionrecovery247.co.uk/sitemap.xml
